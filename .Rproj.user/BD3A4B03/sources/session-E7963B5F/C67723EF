@@ -1,0 +1,26 @@
+{
+    "id": "C67723EF",
+    "path": "C:/Users/admin/Desktop/convertiblebonds/convertbonds/R/black_scholes.R",
+    "project_path": "R/black_scholes.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1681405639487.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "35,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1682328852,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1682328852207,
+    "read_only": false,
+    "read_only_alternatives": []
+}
